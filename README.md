@@ -1,14 +1,14 @@
 
 
-#HEIDI SQL PASSWORDS EXTRACTOR:                     
+# HEIDI SQL PASSWORDS EXTRACTOR:                     
 
-####Heidi-Credentials extractor
-
-
-#####Create a .txt file with the credentials and the decrypted passwords.
+#### Heidi-Credentials extractor
 
 
-###HOW TO USE IT:                         
+##### Create a .txt file with the credentials and the decrypted passwords.
+
+
+### HOW TO USE IT:                         
 
 
 
